@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 def clean_chronic_data(file_path):
-    print("Cleaning Data...")
+    print("Cleaning Data....")
     df = pd.read_csv(file_path, low_memory=False)
     
     # Keep only Crude Prevalence for metric consistency

@@ -7,7 +7,7 @@ import plotly.express as px
 # --- CONFIGURATION ---
 st.set_page_config(page_title="Chronic Disease Intelligence", layout="wide")
 st.title("🏥 Chronic Disease Predictive Intelligence")
-st.markdown("---")
+st.markdown("----")
 
 # --- LOAD ASSETS ---
 @st.cache_data

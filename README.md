@@ -4,7 +4,7 @@
 ## 📌 Background & Motivation
 Chronic diseases—such as Diabetes, CVD, and Cancer—account for nearly **75% of global deaths** and the majority of U.S. healthcare spending. Current public health surveillance is often **reactive**, reporting data years after collection. 
 
-**The Goal:** This project moves from "What happened?" to **"What will happen?"** It provides a predictive framework to assist policymakers in proactive resource allocation, focusing on the rising burden of an aging population and demographic health disparities.
+**The Goal:** This project moves from "What happened?" to **"What will happen?"** It provides a predictive framework to assist policymakers in proactive resource allocation, focusing on the rising burden of an aging population and demographic health disparities .
 
 ---
 

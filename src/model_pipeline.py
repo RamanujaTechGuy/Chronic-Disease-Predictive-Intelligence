@@ -12,7 +12,7 @@ class ChronicDiseaseModel:
                          'StratificationCategory1','Stratification1','Latitude', 'Longitude','HealthCluster']
 
     def train_model(self, df):
-        print("---Training Production Model----")
+        print("----Training Production Model----")
         df_ml = df.copy()
         cat_cols = ['LocationAbbr','Topic','Question','StratificationCategory1','Stratification1']
         for col in cat_cols:

@@ -82,6 +82,6 @@ def get_prediction(year, state, topic, question, strat_cat, strat_val, df_refere
     print(f"Group: {strat_val} in {state}")
     print(f"Applied Growth Rate: {((rate-1)*100):.1f}% per year")
     print(f"[Result] Predicted Prevalence for {year}: {final_pred:.2f}%")
-    print("-" * 30)
+    print("--" * 15)
 
     return final_pred
